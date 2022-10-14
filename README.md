@@ -1,1 +1,1 @@
-# practices-mvn1-sonar-nexus
+# practices-mvn1-sonar-nexus java practice to understand maven and nexus
